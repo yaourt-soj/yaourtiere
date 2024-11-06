@@ -1,0 +1,58 @@
+# Make keypair.pem private
+chmod 400 keypair.pem
+
+# Connect via ssh
+ssh -i keypair.pem user@dns
+
+# Setup git
+git config --global user.name "yaourtiere"
+git config --global user.email soj.data@gmail.com
+
+# create directories
+mkdir stage
+mkdir prod
+
+# git clone in directories using https
+git clone [url] .
+
+# Check python version
+python3 -V
+
+# Install pip
+sudo apt update
+sudo apt install software-properties-common
+sudo apt-get install python3-pip
+
+# Install venv
+sudo apt install python3.10-venv
+
+
+# Create environments
+python3 -m venv stage
+python3 -m venv prod
+
+# Create .env files and fill them
+cd stage
+vi .env
+# i to insert
+# type key-values
+# esc
+# :wq
+
+# Create requirements.txt
+touch requirements.txt
+vi requirements.txt
+# etc.
+
+# Activate environment
+source stage/bin/activate
+
+# Deactivate environment
+deactivate
+
+# Install packages in environment
+pip install -r requirements.txt
+
+# Run python
+python3
+

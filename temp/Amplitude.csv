@@ -1,0 +1,663 @@
+LABEL,PARENT,ID,VISITORS
+Account Creation,,"1, ",1958
+Crypto Send: failed,"1, ","1, 11, ",2
+Crypto Sell: simulation,"1, ","1, 14, ",3
+Crypto Send: success,"1, 14, ","1, 14, 9, ",3
+Crypto Sell: success,"1, 14, 9, ","1, 14, 9, 15, ",3
+Crypto Sell: simulation,"1, 14, 9, 15, ","1, 14, 9, 15, 14, ",3
+Crypto Send: success,"1, 14, 9, 15, 14, ","1, 14, 9, 15, 14, 9, ",3
+Crypto Sell: success,"1, 14, 9, 15, 14, 9, ","1, 14, 9, 15, 14, 9, 15, ",3
+Crypto Sell: simulation,"1, 14, 9, 15, 14, 9, 15, ","1, 14, 9, 15, 14, 9, 15, 14, ",3
+Crypto Sell: failed,"1, 14, 9, 15, 14, 9, 15, 14, ","1, 14, 9, 15, 14, 9, 15, 14, 16, ",1
+Crypto Sell: simulation,"1, 14, 9, 15, 14, 9, 15, 14, 16, ","1, 14, 9, 15, 14, 9, 15, 14, 16, 14, ",1
+Crypto Sell: failed,"1, 14, 9, 15, 14, 9, 15, 14, 16, 14, ","1, 14, 9, 15, 14, 9, 15, 14, 16, 14, 16, ",1
+Crypto Buy: simulation,"1, 14, 9, 15, 14, 9, 15, 14, ","1, 14, 9, 15, 14, 9, 15, 14, 6, ",1
+Crypto Sell: simulation,"1, 14, 9, 15, 14, 9, 15, 14, 6, ","1, 14, 9, 15, 14, 9, 15, 14, 6, 14, ",1
+Crypto Buy: simulation,"1, 14, 9, 15, 14, 9, 15, 14, 6, 14, ","1, 14, 9, 15, 14, 9, 15, 14, 6, 14, 6, ",1
+Crypto Send: success,"1, 14, 9, 15, 14, 9, 15, 14, ","1, 14, 9, 15, 14, 9, 15, 14, 9, ",1
+Crypto Sell: success,"1, 14, 9, 15, 14, 9, 15, 14, 9, ","1, 14, 9, 15, 14, 9, 15, 14, 9, 15, ",1
+Crypto Buy: simulation,"1, 14, 9, 15, 14, 9, 15, 14, 9, 15, ","1, 14, 9, 15, 14, 9, 15, 14, 9, 15, 6, ",1
+Savings Placement: simulation,"1, ","1, 2, ",438
+Savings Placement: initiated,"1, 2, ","1, 2, 10, ",10
+Savings Placement: cancelled,"1, 2, 10, ","1, 2, 10, 13, ",4
+Savings Placement: simulation,"1, 2, 10, 13, ","1, 2, 10, 13, 2, ",1
+Savings Placement: initiated,"1, 2, 10, 13, 2, ","1, 2, 10, 13, 2, 10, ",1
+Savings Placement: simulation,"1, 2, 10, 13, 2, 10, ","1, 2, 10, 13, 2, 10, 2, ",1
+Savings Placement: success,"1, 2, 10, 13, 2, 10, 2, ","1, 2, 10, 13, 2, 10, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 10, 13, 2, 10, 2, 4, ","1, 2, 10, 13, 2, 10, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 10, 13, 2, 10, 2, 4, 2, ","1, 2, 10, 13, 2, 10, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 10, 13, 2, 10, 2, 4, 2, 4, ","1, 2, 10, 13, 2, 10, 2, 4, 2, 4, 2, ",1
+Savings Placement: simulation,"1, 2, 10, ","1, 2, 10, 2, ",3
+Savings Placement: initiated,"1, 2, 10, 2, ","1, 2, 10, 2, 10, ",1
+Savings Placement: simulation,"1, 2, 10, 2, 10, ","1, 2, 10, 2, 10, 2, ",1
+Savings Placement: success,"1, 2, 10, 2, 10, 2, ","1, 2, 10, 2, 10, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 10, 2, 10, 2, 4, ","1, 2, 10, 2, 10, 2, 4, 6, ",1
+Crypto Buy: success,"1, 2, 10, 2, 10, 2, 4, 6, ","1, 2, 10, 2, 10, 2, 4, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 10, 2, 10, 2, 4, 6, 7, ","1, 2, 10, 2, 10, 2, 4, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 10, 2, 10, 2, 4, 6, 7, 6, ","1, 2, 10, 2, 10, 2, 4, 6, 7, 6, 7, ",1
+Savings Placement: success,"1, 2, 10, 2, ","1, 2, 10, 2, 4, ",1
+Savings Placement: failed,"1, 2, ","1, 2, 3, ",49
+Savings Placement: simulation,"1, 2, 3, ","1, 2, 3, 2, ",25
+Savings Placement: failed,"1, 2, 3, 2, ","1, 2, 3, 2, 3, ",14
+Savings Placement: simulation,"1, 2, 3, 2, 3, ","1, 2, 3, 2, 3, 2, ",7
+Savings Placement: failed,"1, 2, 3, 2, 3, 2, ","1, 2, 3, 2, 3, 2, 3, ",5
+Savings Placement: simulation,"1, 2, 3, 2, 3, 2, 3, ","1, 2, 3, 2, 3, 2, 3, 2, ",3
+Savings Placement: failed,"1, 2, 3, 2, 3, 2, 3, 2, ","1, 2, 3, 2, 3, 2, 3, 2, 3, ",2
+Savings Placement: simulation,"1, 2, 3, 2, 3, 2, 3, 2, 3, ","1, 2, 3, 2, 3, 2, 3, 2, 3, 2, ",2
+Savings Placement: failed,"1, 2, 3, 2, 3, 2, 3, 2, 3, 2, ","1, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, ",2
+Savings Placement: success,"1, 2, 3, 2, 3, 2, 3, 2, ","1, 2, 3, 2, 3, 2, 3, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 2, 3, 2, 3, 2, 4, ","1, 2, 3, 2, 3, 2, 3, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 2, 3, 2, 3, 2, 4, 2, ","1, 2, 3, 2, 3, 2, 3, 2, 4, 2, 4, ",1
+Savings Placement: success,"1, 2, 3, 2, 3, 2, 3, ","1, 2, 3, 2, 3, 2, 3, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 2, 3, 2, 3, 4, ","1, 2, 3, 2, 3, 2, 3, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 2, 3, 2, 3, 4, 2, ","1, 2, 3, 2, 3, 2, 3, 4, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 3, 2, 3, 2, 3, 4, 2, 4, ","1, 2, 3, 2, 3, 2, 3, 4, 2, 4, 5, ",1
+Savings Placement: success,"1, 2, 3, 2, 3, 2, ","1, 2, 3, 2, 3, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 3, 2, 3, ","1, 2, 3, 2, 3, 6, ",1
+Crypto Buy: failed,"1, 2, 3, 2, 3, 6, ","1, 2, 3, 2, 3, 6, 8, ",1
+Crypto Buy: simulation,"1, 2, 3, 2, 3, 6, 8, ","1, 2, 3, 2, 3, 6, 8, 6, ",1
+Crypto Buy: success,"1, 2, 3, 2, 3, 6, 8, 6, ","1, 2, 3, 2, 3, 6, 8, 6, 7, ",1
+Savings Placement: success,"1, 2, 3, 2, ","1, 2, 3, 2, 4, ",10
+Savings Placement: simulation,"1, 2, 3, 2, 4, ","1, 2, 3, 2, 4, 2, ",4
+Savings Placement: failed,"1, 2, 3, 2, 4, 2, ","1, 2, 3, 2, 4, 2, 3, ",1
+Savings Placement: simulation,"1, 2, 3, 2, 4, 2, 3, ","1, 2, 3, 2, 4, 2, 3, 2, ",1
+Savings Placement: success,"1, 2, 3, 2, 4, 2, 3, 2, ","1, 2, 3, 2, 4, 2, 3, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 2, 4, 2, 3, 2, 4, ","1, 2, 3, 2, 4, 2, 3, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 2, 4, 2, 3, 2, 4, 2, ","1, 2, 3, 2, 4, 2, 3, 2, 4, 2, 4, ",1
+Savings Placement: success,"1, 2, 3, 2, 4, 2, ","1, 2, 3, 2, 4, 2, 4, ",3
+Savings Placement: simulation,"1, 2, 3, 2, 4, 2, 4, ","1, 2, 3, 2, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 2, 4, 2, 4, 2, ","1, 2, 3, 2, 4, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 2, 4, 2, 4, 2, 4, ","1, 2, 3, 2, 4, 2, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 2, 4, 2, 4, 2, 4, 2, ","1, 2, 3, 2, 4, 2, 4, 2, 4, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 3, 2, 4, 2, 4, ","1, 2, 3, 2, 4, 2, 4, 5, ",1
+Savings Withdrawal: success,"1, 2, 3, 2, 4, 2, 4, 5, ","1, 2, 3, 2, 4, 2, 4, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 3, 2, 4, ","1, 2, 3, 2, 4, 5, ",3
+Savings Withdrawal: success,"1, 2, 3, 2, 4, 5, ","1, 2, 3, 2, 4, 5, 12, ",3
+Savings Withdrawal: simulation,"1, 2, 3, 2, 4, 5, 12, ","1, 2, 3, 2, 4, 5, 12, 5, ",1
+Crypto Buy: simulation,"1, 2, 3, 2, 4, ","1, 2, 3, 2, 4, 6, ",1
+Crypto Buy: success,"1, 2, 3, 2, 4, 6, ","1, 2, 3, 2, 4, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 3, 2, 4, 6, 7, ","1, 2, 3, 2, 4, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 3, 2, 4, 6, 7, 6, ","1, 2, 3, 2, 4, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 3, 2, 4, 6, 7, 6, 7, ","1, 2, 3, 2, 4, 6, 7, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 2, 3, 2, 4, 6, 7, 6, 7, 6, ","1, 2, 3, 2, 4, 6, 7, 6, 7, 6, 8, ",1
+Savings Placement: success,"1, 2, 3, ","1, 2, 3, 4, ",3
+Savings Withdrawal: simulation,"1, 2, 3, 4, ","1, 2, 3, 4, 5, ",2
+Savings Withdrawal: success,"1, 2, 3, 4, 5, ","1, 2, 3, 4, 5, 12, ",2
+Savings Withdrawal: simulation,"1, 2, 3, 4, 5, 12, ","1, 2, 3, 4, 5, 12, 5, ",1
+Crypto Buy: simulation,"1, 2, 3, ","1, 2, 3, 6, ",2
+Savings Placement: simulation,"1, 2, 3, 6, ","1, 2, 3, 6, 2, ",1
+Savings Placement: success,"1, 2, 3, 6, 2, ","1, 2, 3, 6, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 6, 2, 4, ","1, 2, 3, 6, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 6, 2, 4, 2, ","1, 2, 3, 6, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 6, 2, 4, 2, 4, ","1, 2, 3, 6, 2, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 3, 6, 2, 4, 2, 4, 2, ","1, 2, 3, 6, 2, 4, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 3, 6, 2, 4, 2, 4, 2, 4, ","1, 2, 3, 6, 2, 4, 2, 4, 2, 4, 2, ",1
+Crypto Buy: failed,"1, 2, 3, 6, ","1, 2, 3, 6, 8, ",1
+Crypto Buy: simulation,"1, 2, 3, 6, 8, ","1, 2, 3, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 2, 3, 6, 8, 6, ","1, 2, 3, 6, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 2, 3, 6, 8, 6, 8, ","1, 2, 3, 6, 8, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 2, 3, 6, 8, 6, 8, 6, ","1, 2, 3, 6, 8, 6, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 2, 3, 6, 8, 6, 8, 6, 8, ","1, 2, 3, 6, 8, 6, 8, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 2, 3, 6, 8, 6, 8, 6, 8, 6, ","1, 2, 3, 6, 8, 6, 8, 6, 8, 6, 8, ",1
+Savings Placement: success,"1, 2, ","1, 2, 4, ",299
+Savings Placement: simulation,"1, 2, 4, ","1, 2, 4, 2, ",107
+Savings Placement: failed,"1, 2, 4, 2, ","1, 2, 4, 2, 3, ",12
+Savings Placement: simulation,"1, 2, 4, 2, 3, ","1, 2, 4, 2, 3, 2, ",10
+Savings Placement: failed,"1, 2, 4, 2, 3, 2, ","1, 2, 4, 2, 3, 2, 3, ",3
+Savings Placement: simulation,"1, 2, 4, 2, 3, 2, 3, ","1, 2, 4, 2, 3, 2, 3, 2, ",1
+Savings Placement: failed,"1, 2, 4, 2, 3, 2, 3, 2, ","1, 2, 4, 2, 3, 2, 3, 2, 3, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 3, 2, 3, 2, 3, ","1, 2, 4, 2, 3, 2, 3, 2, 3, 2, ",1
+Savings Placement: failed,"1, 2, 4, 2, 3, 2, 3, 2, 3, 2, ","1, 2, 4, 2, 3, 2, 3, 2, 3, 2, 3, ",1
+Savings Placement: success,"1, 2, 4, 2, 3, 2, 3, ","1, 2, 4, 2, 3, 2, 3, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 3, 2, 3, 4, ","1, 2, 4, 2, 3, 2, 3, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 3, 2, 3, 4, 2, ","1, 2, 4, 2, 3, 2, 3, 4, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 3, 2, 3, 4, 2, 4, ","1, 2, 4, 2, 3, 2, 3, 4, 2, 4, 5, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 3, 2, 3, ","1, 2, 4, 2, 3, 2, 3, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 3, 2, 3, 5, ","1, 2, 4, 2, 3, 2, 3, 5, 12, ",1
+Savings Placement: success,"1, 2, 4, 2, 3, 2, ","1, 2, 4, 2, 3, 2, 4, ",6
+Savings Placement: simulation,"1, 2, 4, 2, 3, 2, 4, ","1, 2, 4, 2, 3, 2, 4, 2, ",3
+Savings Placement: success,"1, 2, 4, 2, 3, 2, 4, 2, ","1, 2, 4, 2, 3, 2, 4, 2, 4, ",3
+Savings Placement: simulation,"1, 2, 4, 2, 3, 2, 4, 2, 4, ","1, 2, 4, 2, 3, 2, 4, 2, 4, 2, ",3
+Savings Placement: success,"1, 2, 4, 2, 3, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 3, 2, 4, 2, 4, 2, 4, ",3
+Savings Placement: failed,"1, 2, 4, 2, 3, 2, 4, ","1, 2, 4, 2, 3, 2, 4, 3, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 3, 2, 4, 3, ","1, 2, 4, 2, 3, 2, 4, 3, 2, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 3, 2, 4, ","1, 2, 4, 2, 3, 2, 4, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 3, 2, 4, 6, ","1, 2, 4, 2, 3, 2, 4, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 3, 2, 4, 6, 7, ","1, 2, 4, 2, 3, 2, 4, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 3, 2, 4, 6, 7, 6, ","1, 2, 4, 2, 3, 2, 4, 6, 7, 6, 7, ",1
+Savings Placement: success,"1, 2, 4, 2, 3, ","1, 2, 4, 2, 3, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 3, 4, ","1, 2, 4, 2, 3, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 3, 4, 2, ","1, 2, 4, 2, 3, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 3, 4, 2, 4, ","1, 2, 4, 2, 3, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 3, 4, 2, 4, 2, ","1, 2, 4, 2, 3, 4, 2, 4, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 3, ","1, 2, 4, 2, 3, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 3, 5, ","1, 2, 4, 2, 3, 5, 12, ",1
+Savings Placement: success,"1, 2, 4, 2, ","1, 2, 4, 2, 4, ",91
+Savings Placement: simulation,"1, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, ",51
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 3, ",4
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 3, ","1, 2, 4, 2, 4, 2, 3, 2, ",3
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, 3, 2, ","1, 2, 4, 2, 4, 2, 3, 2, 3, ",3
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 3, 2, 3, ","1, 2, 4, 2, 4, 2, 3, 2, 3, 2, ",3
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, 3, 2, 3, 2, ","1, 2, 4, 2, 4, 2, 3, 2, 3, 2, 3, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 2, 3, 2, 3, 2, ","1, 2, 4, 2, 4, 2, 3, 2, 3, 2, 4, ",2
+Savings Placement: success,"1, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 4, ",45
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 2, ",25
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 3, ",3
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 4, 2, 3, ","1, 2, 4, 2, 4, 2, 4, 2, 3, 2, ",3
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, 4, 2, 3, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 3, 2, 3, ",2
+Savings Placement: success,"1, 2, 4, 2, 4, 2, 4, 2, 3, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 3, 2, 4, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 4, ",21
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 2, 4, 2, ",13
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 4, 2, 3, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 4, 2, 4, ",12
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 2, 4, 5, ",5
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 2, 4, 2, 4, 5, ","1, 2, 4, 2, 4, 2, 4, 2, 4, 5, 12, ",5
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 4, 2, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 2, 4, 2, 5, ","1, 2, 4, 2, 4, 2, 4, 2, 5, 12, ",1
+Savings Placement: failed,"1, 2, 4, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 3, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 2, 4, 3, ","1, 2, 4, 2, 4, 2, 4, 3, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 2, 4, 3, 5, ","1, 2, 4, 2, 4, 2, 4, 3, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 5, ",7
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 2, 4, 5, ","1, 2, 4, 2, 4, 2, 4, 5, 12, ",6
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 4, 5, ","1, 2, 4, 2, 4, 2, 4, 5, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 2, 4, 5, 2, ","1, 2, 4, 2, 4, 2, 4, 5, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 4, 5, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 5, 2, 4, 2, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 2, 4, 6, ",5
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 2, 4, 6, ","1, 2, 4, 2, 4, 2, 4, 6, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 2, 4, 6, 5, ","1, 2, 4, 2, 4, 2, 4, 6, 5, 12, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 2, 4, 6, ","1, 2, 4, 2, 4, 2, 4, 6, 7, ",4
+Savings Placement: simulation,"1, 2, 4, 2, 4, 2, 4, 6, 7, ","1, 2, 4, 2, 4, 2, 4, 6, 7, 2, ",2
+Savings Placement: success,"1, 2, 4, 2, 4, 2, 4, 6, 7, 2, ","1, 2, 4, 2, 4, 2, 4, 6, 7, 2, 4, ",2
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 2, 4, 6, 7, ","1, 2, 4, 2, 4, 2, 4, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 2, 4, 2, 4, 2, 4, 6, 7, 6, ","1, 2, 4, 2, 4, 2, 4, 6, 7, 6, 8, ",1
+Crypto Buy: failed,"1, 2, 4, 2, 4, 2, 4, 6, 7, ","1, 2, 4, 2, 4, 2, 4, 6, 7, 8, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 2, 4, 6, 7, 8, ","1, 2, 4, 2, 4, 2, 4, 6, 7, 8, 6, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 2, 5, ","1, 2, 4, 2, 4, 2, 5, 12, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 2, ","1, 2, 4, 2, 4, 2, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 2, 6, ","1, 2, 4, 2, 4, 2, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 2, 6, 7, ","1, 2, 4, 2, 4, 2, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 2, 6, 7, 6, ","1, 2, 4, 2, 4, 2, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 2, 6, 7, 6, 7, ","1, 2, 4, 2, 4, 2, 6, 7, 6, 7, 6, ",1
+Savings Placement: failed,"1, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 3, ",2
+Savings Placement: simulation,"1, 2, 4, 2, 4, 3, ","1, 2, 4, 2, 4, 3, 2, ",2
+Savings Placement: failed,"1, 2, 4, 2, 4, 3, 2, ","1, 2, 4, 2, 4, 3, 2, 3, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 3, 2, 3, ","1, 2, 4, 2, 4, 3, 2, 3, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 3, 2, 3, 2, ","1, 2, 4, 2, 4, 3, 2, 3, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 3, 2, 3, 2, 4, ","1, 2, 4, 2, 4, 3, 2, 3, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 3, 2, ","1, 2, 4, 2, 4, 3, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 3, 2, 4, ","1, 2, 4, 2, 4, 3, 2, 4, 2, ",1
+Savings Placement: failed,"1, 2, 4, 2, 4, 3, 2, 4, 2, ","1, 2, 4, 2, 4, 3, 2, 4, 2, 3, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 3, 2, 4, 2, 3, ","1, 2, 4, 2, 4, 3, 2, 4, 2, 3, 2, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 5, ",14
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 5, ","1, 2, 4, 2, 4, 5, 12, ",11
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 5, 12, ","1, 2, 4, 2, 4, 5, 12, 5, ",3
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 5, 12, 5, ","1, 2, 4, 2, 4, 5, 12, 5, 12, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 5, 12, 5, ","1, 2, 4, 2, 4, 5, 12, 5, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 5, 12, 5, 2, ","1, 2, 4, 2, 4, 5, 12, 5, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 5, 12, ","1, 2, 4, 2, 4, 5, 12, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 5, 12, 6, ","1, 2, 4, 2, 4, 5, 12, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 5, 12, 6, 7, ","1, 2, 4, 2, 4, 5, 12, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 5, 12, 6, 7, 6, ","1, 2, 4, 2, 4, 5, 12, 6, 7, 6, 7, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 5, ","1, 2, 4, 2, 4, 5, 2, ",2
+Savings Placement: success,"1, 2, 4, 2, 4, 5, 2, ","1, 2, 4, 2, 4, 5, 2, 4, ",2
+Savings Placement: simulation,"1, 2, 4, 2, 4, 5, 2, 4, ","1, 2, 4, 2, 4, 5, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 5, 2, 4, 2, ","1, 2, 4, 2, 4, 5, 2, 4, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 5, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 5, 2, 4, 2, 4, 5, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 5, 2, 4, ","1, 2, 4, 2, 4, 5, 2, 4, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 5, 2, 4, 5, ","1, 2, 4, 2, 4, 5, 2, 4, 5, 12, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 5, 2, 4, 5, 12, ","1, 2, 4, 2, 4, 5, 2, 4, 5, 12, 2, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, ","1, 2, 4, 2, 4, 6, ",5
+Crypto Buy: success,"1, 2, 4, 2, 4, 6, ","1, 2, 4, 2, 4, 6, 7, ",5
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 6, 7, ","1, 2, 4, 2, 4, 6, 7, 5, ",3
+Savings Withdrawal: success,"1, 2, 4, 2, 4, 6, 7, 5, ","1, 2, 4, 2, 4, 6, 7, 5, 12, ",2
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 6, 7, 5, 12, ","1, 2, 4, 2, 4, 6, 7, 5, 12, 5, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 6, 7, 5, 12, 5, ","1, 2, 4, 2, 4, 6, 7, 5, 12, 5, 6, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 6, 7, 5, 12, ","1, 2, 4, 2, 4, 6, 7, 5, 12, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 6, 7, 5, 12, 6, ","1, 2, 4, 2, 4, 6, 7, 5, 12, 6, 7, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 6, 7, 5, ","1, 2, 4, 2, 4, 6, 7, 5, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 6, 7, 5, 2, ","1, 2, 4, 2, 4, 6, 7, 5, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 6, 7, 5, 2, 4, ","1, 2, 4, 2, 4, 6, 7, 5, 2, 4, 6, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 6, 7, ","1, 2, 4, 2, 4, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 6, 7, 6, ","1, 2, 4, 2, 4, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 2, 4, 6, 7, 6, 7, ","1, 2, 4, 2, 4, 6, 7, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 4, 2, 4, 6, 7, 6, 7, 6, ","1, 2, 4, 2, 4, 6, 7, 6, 7, 6, 7, ",1
+Crypto Buy: failed,"1, 2, 4, 2, 4, 6, 7, ","1, 2, 4, 2, 4, 6, 7, 8, ",1
+Savings Placement: simulation,"1, 2, 4, 2, 4, 6, 7, 8, ","1, 2, 4, 2, 4, 6, 7, 8, 2, ",1
+Savings Placement: success,"1, 2, 4, 2, 4, 6, 7, 8, 2, ","1, 2, 4, 2, 4, 6, 7, 8, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 2, 4, 6, 7, 8, 2, 4, ","1, 2, 4, 2, 4, 6, 7, 8, 2, 4, 5, ",1
+Savings Placement: failed,"1, 2, 4, ","1, 2, 4, 3, ",8
+Savings Placement: simulation,"1, 2, 4, 3, ","1, 2, 4, 3, 2, ",6
+Savings Placement: failed,"1, 2, 4, 3, 2, ","1, 2, 4, 3, 2, 3, ",4
+Savings Placement: simulation,"1, 2, 4, 3, 2, 3, ","1, 2, 4, 3, 2, 3, 2, ",1
+Savings Placement: success,"1, 2, 4, 3, 2, 3, 2, ","1, 2, 4, 3, 2, 3, 2, 4, ",1
+Savings Placement: failed,"1, 2, 4, 3, 2, 3, 2, 4, ","1, 2, 4, 3, 2, 3, 2, 4, 3, ",1
+Savings Placement: simulation,"1, 2, 4, 3, 2, 3, 2, 4, 3, ","1, 2, 4, 3, 2, 3, 2, 4, 3, 2, ",1
+Savings Placement: failed,"1, 2, 4, 3, 2, 3, 2, 4, 3, 2, ","1, 2, 4, 3, 2, 3, 2, 4, 3, 2, 3, ",1
+Savings Placement: success,"1, 2, 4, 3, 2, ","1, 2, 4, 3, 2, 4, ",2
+Savings Placement: simulation,"1, 2, 4, 3, 2, 4, ","1, 2, 4, 3, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 3, 2, 4, 2, ","1, 2, 4, 3, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 3, 2, 4, 2, 4, ","1, 2, 4, 3, 2, 4, 2, 4, 2, ",1
+Savings Placement: failed,"1, 2, 4, 3, 2, 4, 2, 4, 2, ","1, 2, 4, 3, 2, 4, 2, 4, 2, 3, ",1
+Crypto Buy: simulation,"1, 2, 4, 3, 2, 4, 2, 4, 2, 3, ","1, 2, 4, 3, 2, 4, 2, 4, 2, 3, 6, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 3, ","1, 2, 4, 3, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 3, 5, ","1, 2, 4, 3, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 4, ","1, 2, 4, 5, ",61
+Savings Withdrawal: success,"1, 2, 4, 5, ","1, 2, 4, 5, 12, ",54
+Crypto Sell: simulation,"1, 2, 4, 5, 12, ","1, 2, 4, 5, 12, 14, ",1
+Crypto Send: success,"1, 2, 4, 5, 12, 14, ","1, 2, 4, 5, 12, 14, 9, ",1
+Savings Placement: simulation,"1, 2, 4, 5, 12, ","1, 2, 4, 5, 12, 2, ",7
+Savings Placement: success,"1, 2, 4, 5, 12, 2, ","1, 2, 4, 5, 12, 2, 4, ",6
+Savings Placement: simulation,"1, 2, 4, 5, 12, 2, 4, ","1, 2, 4, 5, 12, 2, 4, 2, ",4
+Savings Placement: failed,"1, 2, 4, 5, 12, 2, 4, 2, ","1, 2, 4, 5, 12, 2, 4, 2, 3, ",1
+Savings Placement: simulation,"1, 2, 4, 5, 12, 2, 4, 2, 3, ","1, 2, 4, 5, 12, 2, 4, 2, 3, 2, ",1
+Savings Placement: success,"1, 2, 4, 5, 12, 2, 4, 2, 3, 2, ","1, 2, 4, 5, 12, 2, 4, 2, 3, 2, 4, ",1
+Savings Placement: success,"1, 2, 4, 5, 12, 2, 4, 2, ","1, 2, 4, 5, 12, 2, 4, 2, 4, ",3
+Savings Placement: simulation,"1, 2, 4, 5, 12, 2, 4, 2, 4, ","1, 2, 4, 5, 12, 2, 4, 2, 4, 2, ",2
+Savings Placement: success,"1, 2, 4, 5, 12, 2, 4, 2, 4, 2, ","1, 2, 4, 5, 12, 2, 4, 2, 4, 2, 4, ",2
+Savings Withdrawal: simulation,"1, 2, 4, 5, 12, 2, 4, 2, 4, ","1, 2, 4, 5, 12, 2, 4, 2, 4, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 5, 12, 2, 4, 2, 4, 5, ","1, 2, 4, 5, 12, 2, 4, 2, 4, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 5, 12, 2, 4, ","1, 2, 4, 5, 12, 2, 4, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 5, 12, 2, 4, 5, ","1, 2, 4, 5, 12, 2, 4, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 5, 12, ","1, 2, 4, 5, 12, 5, ",7
+Crypto Buy: simulation,"1, 2, 4, 5, 12, ","1, 2, 4, 5, 12, 6, ",1
+Crypto Buy: success,"1, 2, 4, 5, 12, 6, ","1, 2, 4, 5, 12, 6, 7, ",1
+Crypto Send: failed,"1, 2, 4, 5, 12, 6, 7, ","1, 2, 4, 5, 12, 6, 7, 11, ",1
+Crypto Sell: simulation,"1, 2, 4, 5, 12, 6, 7, 11, ","1, 2, 4, 5, 12, 6, 7, 11, 14, ",1
+Crypto Send: success,"1, 2, 4, 5, 12, 6, 7, 11, 14, ","1, 2, 4, 5, 12, 6, 7, 11, 14, 9, ",1
+Crypto Sell: success,"1, 2, 4, 5, 12, 6, 7, 11, 14, 9, ","1, 2, 4, 5, 12, 6, 7, 11, 14, 9, 15, ",1
+Savings Placement: simulation,"1, 2, 4, 5, ","1, 2, 4, 5, 2, ",2
+Savings Placement: success,"1, 2, 4, 5, 2, ","1, 2, 4, 5, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 5, 2, 4, ","1, 2, 4, 5, 2, 4, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 5, 2, 4, 5, ","1, 2, 4, 5, 2, 4, 5, 12, ",1
+Crypto Buy: simulation,"1, 2, 4, 5, ","1, 2, 4, 5, 6, ",1
+Crypto Buy: success,"1, 2, 4, 5, 6, ","1, 2, 4, 5, 6, 7, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 5, 6, 7, ","1, 2, 4, 5, 6, 7, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 5, 6, 7, 5, ","1, 2, 4, 5, 6, 7, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 5, 6, 7, 5, 12, ","1, 2, 4, 5, 6, 7, 5, 12, 5, ",1
+Crypto Buy: simulation,"1, 2, 4, 5, 6, 7, 5, 12, 5, ","1, 2, 4, 5, 6, 7, 5, 12, 5, 6, ",1
+Savings Placement: simulation,"1, 2, 4, 5, 6, 7, 5, 12, 5, 6, ","1, 2, 4, 5, 6, 7, 5, 12, 5, 6, 2, ",1
+Crypto Buy: simulation,"1, 2, 4, ","1, 2, 4, 6, ",21
+Savings Placement: simulation,"1, 2, 4, 6, ","1, 2, 4, 6, 2, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 2, ","1, 2, 4, 6, 2, 6, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 6, ","1, 2, 4, 6, 5, ",2
+Savings Withdrawal: success,"1, 2, 4, 6, 5, ","1, 2, 4, 6, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 6, 5, 12, ","1, 2, 4, 6, 5, 12, 5, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 5, ","1, 2, 4, 6, 5, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 5, 2, ","1, 2, 4, 6, 5, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 5, 2, 4, ","1, 2, 4, 6, 5, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 5, 2, 4, 2, ","1, 2, 4, 6, 5, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 5, 2, 4, 2, 4, ","1, 2, 4, 6, 5, 2, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 5, 2, 4, 2, 4, 2, ","1, 2, 4, 6, 5, 2, 4, 2, 4, 2, 4, ",1
+Crypto Buy: success,"1, 2, 4, 6, ","1, 2, 4, 6, 7, ",14
+Crypto Sell: simulation,"1, 2, 4, 6, 7, ","1, 2, 4, 6, 7, 14, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 14, ","1, 2, 4, 6, 7, 14, 6, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 7, 14, 6, ","1, 2, 4, 6, 7, 14, 6, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 7, 14, 6, 2, ","1, 2, 4, 6, 7, 14, 6, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 14, 6, 2, 4, ","1, 2, 4, 6, 7, 14, 6, 2, 4, 6, ",1
+Crypto Buy: success,"1, 2, 4, 6, 7, 14, 6, 2, 4, 6, ","1, 2, 4, 6, 7, 14, 6, 2, 4, 6, 7, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 7, ","1, 2, 4, 6, 7, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 7, 2, ","1, 2, 4, 6, 7, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 2, 4, ","1, 2, 4, 6, 7, 2, 4, 6, ",1
+Crypto Buy: success,"1, 2, 4, 6, 7, 2, 4, 6, ","1, 2, 4, 6, 7, 2, 4, 6, 7, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 6, 7, ","1, 2, 4, 6, 7, 5, ",2
+Savings Withdrawal: success,"1, 2, 4, 6, 7, 5, ","1, 2, 4, 6, 7, 5, 12, ",2
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 5, 12, ","1, 2, 4, 6, 7, 5, 12, 6, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, ","1, 2, 4, 6, 7, 6, ",6
+Crypto Buy: success,"1, 2, 4, 6, 7, 6, ","1, 2, 4, 6, 7, 6, 7, ",5
+Crypto Sell: simulation,"1, 2, 4, 6, 7, 6, 7, ","1, 2, 4, 6, 7, 6, 7, 14, ",1
+Crypto Send: failed,"1, 2, 4, 6, 7, 6, 7, 14, ","1, 2, 4, 6, 7, 6, 7, 14, 11, ",1
+Crypto Sell: failed,"1, 2, 4, 6, 7, 6, 7, 14, 11, ","1, 2, 4, 6, 7, 6, 7, 14, 11, 16, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 6, 7, 14, 11, 16, ","1, 2, 4, 6, 7, 6, 7, 14, 11, 16, 6, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 7, 6, 7, ","1, 2, 4, 6, 7, 6, 7, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 7, 6, 7, 2, ","1, 2, 4, 6, 7, 6, 7, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 7, 6, 7, 2, 4, ","1, 2, 4, 6, 7, 6, 7, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 7, 6, 7, 2, 4, 2, ","1, 2, 4, 6, 7, 6, 7, 2, 4, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 6, 7, 6, 7, ","1, 2, 4, 6, 7, 6, 7, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 6, 7, 6, 7, 5, ","1, 2, 4, 6, 7, 6, 7, 5, 12, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 6, 7, 5, 12, ","1, 2, 4, 6, 7, 6, 7, 5, 12, 6, ",1
+Crypto Buy: success,"1, 2, 4, 6, 7, 6, 7, 5, 12, 6, ","1, 2, 4, 6, 7, 6, 7, 5, 12, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 6, 7, ","1, 2, 4, 6, 7, 6, 7, 6, ",2
+Crypto Buy: success,"1, 2, 4, 6, 7, 6, 7, 6, ","1, 2, 4, 6, 7, 6, 7, 6, 7, ",1
+Crypto Buy: failed,"1, 2, 4, 6, 7, 6, 7, 6, ","1, 2, 4, 6, 7, 6, 7, 6, 8, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 6, 7, 6, 8, ","1, 2, 4, 6, 7, 6, 7, 6, 8, 6, ",1
+Crypto Buy: success,"1, 2, 4, 6, 7, 6, 7, 6, 8, 6, ","1, 2, 4, 6, 7, 6, 7, 6, 8, 6, 7, ",1
+Crypto Buy: failed,"1, 2, 4, 6, 7, 6, ","1, 2, 4, 6, 7, 6, 8, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 6, 8, ","1, 2, 4, 6, 7, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 2, 4, 6, 7, 6, 8, 6, ","1, 2, 4, 6, 7, 6, 8, 6, 8, ",1
+Savings Withdrawal: simulation,"1, 2, 4, 6, 7, 6, 8, 6, 8, ","1, 2, 4, 6, 7, 6, 8, 6, 8, 5, ",1
+Savings Withdrawal: success,"1, 2, 4, 6, 7, 6, 8, 6, 8, 5, ","1, 2, 4, 6, 7, 6, 8, 6, 8, 5, 12, ",1
+Crypto Buy: failed,"1, 2, 4, 6, 7, ","1, 2, 4, 6, 7, 8, ",2
+Savings Withdrawal: simulation,"1, 2, 4, 6, 7, 8, ","1, 2, 4, 6, 7, 8, 5, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 8, 5, ","1, 2, 4, 6, 7, 8, 5, 6, ",1
+Crypto Sell: simulation,"1, 2, 4, 6, 7, 8, 5, 6, ","1, 2, 4, 6, 7, 8, 5, 6, 14, ",1
+Crypto Send: success,"1, 2, 4, 6, 7, 8, 5, 6, 14, ","1, 2, 4, 6, 7, 8, 5, 6, 14, 9, ",1
+Crypto Sell: success,"1, 2, 4, 6, 7, 8, 5, 6, 14, 9, ","1, 2, 4, 6, 7, 8, 5, 6, 14, 9, 15, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 8, ","1, 2, 4, 6, 7, 8, 6, ",1
+Crypto Buy: success,"1, 2, 4, 6, 7, 8, 6, ","1, 2, 4, 6, 7, 8, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 8, 6, 7, ","1, 2, 4, 6, 7, 8, 6, 7, 6, ",1
+Crypto Buy: success,"1, 2, 4, 6, 7, 8, 6, 7, 6, ","1, 2, 4, 6, 7, 8, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 7, 8, 6, 7, 6, 7, ","1, 2, 4, 6, 7, 8, 6, 7, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 2, 4, 6, ","1, 2, 4, 6, 8, ",4
+Crypto Sell: simulation,"1, 2, 4, 6, 8, ","1, 2, 4, 6, 8, 14, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 8, ","1, 2, 4, 6, 8, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 8, 2, ","1, 2, 4, 6, 8, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 8, 2, 4, ","1, 2, 4, 6, 8, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 8, 2, 4, 2, ","1, 2, 4, 6, 8, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 4, 6, 8, 2, 4, 2, 4, ","1, 2, 4, 6, 8, 2, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 4, 6, 8, 2, 4, 2, 4, 2, ","1, 2, 4, 6, 8, 2, 4, 2, 4, 2, 4, ",1
+Crypto Buy: simulation,"1, 2, 4, 6, 8, ","1, 2, 4, 6, 8, 6, ",2
+Crypto Buy: failed,"1, 2, 4, 6, 8, 6, ","1, 2, 4, 6, 8, 6, 8, ",2
+Crypto Buy: simulation,"1, 2, 4, 6, 8, 6, 8, ","1, 2, 4, 6, 8, 6, 8, 6, ",2
+Crypto Buy: failed,"1, 2, 4, 6, 8, 6, 8, 6, ","1, 2, 4, 6, 8, 6, 8, 6, 8, ",2
+Crypto Buy: simulation,"1, 2, 4, 6, 8, 6, 8, 6, 8, ","1, 2, 4, 6, 8, 6, 8, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 2, 4, 6, 8, 6, 8, 6, 8, 6, ","1, 2, 4, 6, 8, 6, 8, 6, 8, 6, 8, ",1
+Savings Withdrawal: simulation,"1, 2, ","1, 2, 5, ",2
+Savings Withdrawal: success,"1, 2, 5, ","1, 2, 5, 12, ",2
+Savings Withdrawal: simulation,"1, 2, 5, 12, ","1, 2, 5, 12, 5, ",2
+Savings Withdrawal: success,"1, 2, 5, 12, 5, ","1, 2, 5, 12, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 2, 5, 12, 5, 12, ","1, 2, 5, 12, 5, 12, 5, ",1
+Savings Withdrawal: success,"1, 2, 5, 12, 5, 12, 5, ","1, 2, 5, 12, 5, 12, 5, 12, ",1
+Crypto Buy: simulation,"1, 2, ","1, 2, 6, ",4
+Crypto Buy: success,"1, 2, 6, ","1, 2, 6, 7, ",4
+Savings Placement: simulation,"1, 2, 6, 7, ","1, 2, 6, 7, 2, ",3
+Savings Placement: success,"1, 2, 6, 7, 2, ","1, 2, 6, 7, 2, 4, ",3
+Savings Placement: simulation,"1, 2, 6, 7, 2, 4, ","1, 2, 6, 7, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 6, 7, 2, 4, 2, ","1, 2, 6, 7, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 6, 7, 2, 4, 2, 4, ","1, 2, 6, 7, 2, 4, 2, 4, 2, ",1
+Savings Placement: success,"1, 2, 6, 7, 2, 4, 2, 4, 2, ","1, 2, 6, 7, 2, 4, 2, 4, 2, 4, ",1
+Savings Placement: simulation,"1, 2, 6, 7, 2, 4, 2, 4, 2, 4, ","1, 2, 6, 7, 2, 4, 2, 4, 2, 4, 2, ",1
+Savings Placement: failed,"1, 2, 6, 7, 2, 4, ","1, 2, 6, 7, 2, 4, 3, ",1
+Savings Placement: simulation,"1, 2, 6, 7, 2, 4, 3, ","1, 2, 6, 7, 2, 4, 3, 2, ",1
+Savings Placement: success,"1, 2, 6, 7, 2, 4, 3, 2, ","1, 2, 6, 7, 2, 4, 3, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 2, 6, 7, 2, 4, ","1, 2, 6, 7, 2, 4, 5, ",1
+Savings Placement: simulation,"1, 2, 6, 7, 2, 4, 5, ","1, 2, 6, 7, 2, 4, 5, 2, ",1
+Savings Placement: success,"1, 2, 6, 7, 2, 4, 5, 2, ","1, 2, 6, 7, 2, 4, 5, 2, 4, ",1
+Savings Withdrawal: simulation,"1, ","1, 5, ",23
+Savings Withdrawal: success,"1, 5, ","1, 5, 12, ",19
+Savings Placement: simulation,"1, 5, 12, ","1, 5, 12, 2, ",1
+Savings Placement: failed,"1, 5, 12, 2, ","1, 5, 12, 2, 3, ",1
+Savings Withdrawal: simulation,"1, 5, 12, 2, 3, ","1, 5, 12, 2, 3, 5, ",1
+Savings Withdrawal: success,"1, 5, 12, 2, 3, 5, ","1, 5, 12, 2, 3, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 5, 12, 2, 3, 5, 12, ","1, 5, 12, 2, 3, 5, 12, 5, ",1
+Savings Withdrawal: success,"1, 5, 12, 2, 3, 5, 12, 5, ","1, 5, 12, 2, 3, 5, 12, 5, 12, ",1
+Savings Placement: simulation,"1, 5, 12, 2, 3, 5, 12, 5, 12, ","1, 5, 12, 2, 3, 5, 12, 5, 12, 2, ",1
+Savings Placement: success,"1, 5, 12, 2, 3, 5, 12, 5, 12, 2, ","1, 5, 12, 2, 3, 5, 12, 5, 12, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 5, 12, ","1, 5, 12, 5, ",7
+Savings Withdrawal: success,"1, 5, 12, 5, ","1, 5, 12, 5, 12, ",5
+Savings Withdrawal: simulation,"1, 5, 12, 5, 12, ","1, 5, 12, 5, 12, 5, ",1
+Savings Withdrawal: success,"1, 5, 12, 5, 12, 5, ","1, 5, 12, 5, 12, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 5, 12, 5, 12, 5, 12, ","1, 5, 12, 5, 12, 5, 12, 5, ",1
+Savings Withdrawal: success,"1, 5, 12, 5, 12, 5, 12, 5, ","1, 5, 12, 5, 12, 5, 12, 5, 12, ",1
+Crypto Buy: simulation,"1, ","1, 6, ",142
+Crypto Sell: simulation,"1, 6, ","1, 6, 14, ",1
+Crypto Sell: success,"1, 6, 14, ","1, 6, 14, 15, ",1
+Crypto Buy: simulation,"1, 6, 14, 15, ","1, 6, 14, 15, 6, ",1
+Crypto Buy: success,"1, 6, ","1, 6, 7, ",97
+Crypto Send: failed,"1, 6, 7, ","1, 6, 7, 11, ",5
+Crypto Sell: simulation,"1, 6, 7, 11, ","1, 6, 7, 11, 14, ",1
+Crypto Send: failed,"1, 6, 7, 11, 14, ","1, 6, 7, 11, 14, 11, ",1
+Crypto Send: success,"1, 6, 7, 11, 14, 11, ","1, 6, 7, 11, 14, 11, 9, ",1
+Crypto Send: success,"1, 6, 7, 11, ","1, 6, 7, 11, 9, ",4
+Crypto Send: failed,"1, 6, 7, 11, 9, ","1, 6, 7, 11, 9, 11, ",1
+Crypto Buy: simulation,"1, 6, 7, 11, 9, 11, ","1, 6, 7, 11, 9, 11, 6, ",1
+Crypto Send: success,"1, 6, 7, 11, 9, 11, 6, ","1, 6, 7, 11, 9, 11, 6, 9, ",1
+Crypto Buy: simulation,"1, 6, 7, 11, 9, 11, 6, 9, ","1, 6, 7, 11, 9, 11, 6, 9, 6, ",1
+Crypto Buy: success,"1, 6, 7, 11, 9, 11, 6, 9, 6, ","1, 6, 7, 11, 9, 11, 6, 9, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 11, 9, 11, 6, 9, 6, 7, ","1, 6, 7, 11, 9, 11, 6, 9, 6, 7, 6, ",1
+Crypto Buy: simulation,"1, 6, 7, 11, 9, ","1, 6, 7, 11, 9, 6, ",2
+Crypto Buy: success,"1, 6, 7, 11, 9, 6, ","1, 6, 7, 11, 9, 6, 7, ",2
+Crypto Sell: simulation,"1, 6, 7, 11, 9, 6, 7, ","1, 6, 7, 11, 9, 6, 7, 14, ",1
+Crypto Send: success,"1, 6, 7, 11, 9, 6, 7, 14, ","1, 6, 7, 11, 9, 6, 7, 14, 9, ",1
+Crypto Sell: success,"1, 6, 7, 11, 9, 6, 7, 14, 9, ","1, 6, 7, 11, 9, 6, 7, 14, 9, 15, ",1
+Crypto Send: success,"1, 6, 7, 11, 9, 6, 7, ","1, 6, 7, 11, 9, 6, 7, 9, ",1
+Crypto Sell: simulation,"1, 6, 7, ","1, 6, 7, 14, ",4
+Crypto Send: failed,"1, 6, 7, 14, ","1, 6, 7, 14, 11, ",1
+Crypto Sell: failed,"1, 6, 7, 14, 11, ","1, 6, 7, 14, 11, 16, ",1
+Crypto Sell: simulation,"1, 6, 7, 14, 11, 16, ","1, 6, 7, 14, 11, 16, 14, ",1
+Crypto Sell: failed,"1, 6, 7, 14, 11, 16, 14, ","1, 6, 7, 14, 11, 16, 14, 16, ",1
+Crypto Sell: simulation,"1, 6, 7, 14, 11, 16, 14, 16, ","1, 6, 7, 14, 11, 16, 14, 16, 14, ",1
+Crypto Send: failed,"1, 6, 7, 14, 11, 16, 14, 16, 14, ","1, 6, 7, 14, 11, 16, 14, 16, 14, 11, ",1
+Crypto Sell: failed,"1, 6, 7, 14, 11, 16, 14, 16, 14, 11, ","1, 6, 7, 14, 11, 16, 14, 16, 14, 11, 16, ",1
+Crypto Send: success,"1, 6, 7, 14, ","1, 6, 7, 14, 9, ",3
+Crypto Send: failed,"1, 6, 7, 14, 9, ","1, 6, 7, 14, 9, 11, ",1
+Crypto Buy: simulation,"1, 6, 7, 14, 9, 11, ","1, 6, 7, 14, 9, 11, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 14, 9, 11, 6, ","1, 6, 7, 14, 9, 11, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 14, 9, 11, 6, 8, ","1, 6, 7, 14, 9, 11, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 14, 9, 11, 6, 8, 6, ","1, 6, 7, 14, 9, 11, 6, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 14, 9, 11, 6, 8, 6, 8, ","1, 6, 7, 14, 9, 11, 6, 8, 6, 8, 6, ",1
+Crypto Sell: success,"1, 6, 7, 14, 9, ","1, 6, 7, 14, 9, 15, ",2
+Savings Placement: simulation,"1, 6, 7, 14, 9, 15, ","1, 6, 7, 14, 9, 15, 2, ",1
+Savings Placement: success,"1, 6, 7, 14, 9, 15, 2, ","1, 6, 7, 14, 9, 15, 2, 4, ",1
+Savings Withdrawal: simulation,"1, 6, 7, 14, 9, 15, 2, 4, ","1, 6, 7, 14, 9, 15, 2, 4, 5, ",1
+Savings Withdrawal: success,"1, 6, 7, 14, 9, 15, 2, 4, 5, ","1, 6, 7, 14, 9, 15, 2, 4, 5, 12, ",1
+Savings Withdrawal: simulation,"1, 6, 7, 14, 9, 15, 2, 4, 5, 12, ","1, 6, 7, 14, 9, 15, 2, 4, 5, 12, 5, ",1
+Crypto Buy: simulation,"1, 6, 7, 14, 9, 15, ","1, 6, 7, 14, 9, 15, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 14, 9, 15, 6, ","1, 6, 7, 14, 9, 15, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 14, 9, 15, 6, 8, ","1, 6, 7, 14, 9, 15, 6, 8, 6, ",1
+Savings Placement: simulation,"1, 6, 7, ","1, 6, 7, 2, ",5
+Savings Placement: success,"1, 6, 7, 2, ","1, 6, 7, 2, 4, ",5
+Savings Placement: simulation,"1, 6, 7, 2, 4, ","1, 6, 7, 2, 4, 2, ",1
+Savings Placement: failed,"1, 6, 7, 2, 4, 2, ","1, 6, 7, 2, 4, 2, 3, ",1
+Savings Placement: simulation,"1, 6, 7, 2, 4, 2, 3, ","1, 6, 7, 2, 4, 2, 3, 2, ",1
+Savings Placement: failed,"1, 6, 7, 2, 4, 2, 3, 2, ","1, 6, 7, 2, 4, 2, 3, 2, 3, ",1
+Savings Placement: simulation,"1, 6, 7, 2, 4, 2, 3, 2, 3, ","1, 6, 7, 2, 4, 2, 3, 2, 3, 2, ",1
+Savings Placement: success,"1, 6, 7, 2, 4, 2, 3, 2, 3, 2, ","1, 6, 7, 2, 4, 2, 3, 2, 3, 2, 4, ",1
+Crypto Buy: simulation,"1, 6, 7, 2, 4, ","1, 6, 7, 2, 4, 6, ",2
+Crypto Buy: success,"1, 6, 7, 2, 4, 6, ","1, 6, 7, 2, 4, 6, 7, ",2
+Crypto Buy: simulation,"1, 6, 7, 2, 4, 6, 7, ","1, 6, 7, 2, 4, 6, 7, 6, ",2
+Crypto Buy: success,"1, 6, 7, 2, 4, 6, 7, 6, ","1, 6, 7, 2, 4, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 2, 4, 6, 7, 6, 7, ","1, 6, 7, 2, 4, 6, 7, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 2, 4, 6, 7, 6, 7, 6, ","1, 6, 7, 2, 4, 6, 7, 6, 7, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 7, 2, 4, 6, 7, 6, ","1, 6, 7, 2, 4, 6, 7, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 2, 4, 6, 7, 6, 8, ","1, 6, 7, 2, 4, 6, 7, 6, 8, 6, ",1
+Crypto Buy: success,"1, 6, 7, 2, 4, 6, 7, 6, 8, 6, ","1, 6, 7, 2, 4, 6, 7, 6, 8, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, ","1, 6, 7, 6, ",52
+Crypto Sell: simulation,"1, 6, 7, 6, ","1, 6, 7, 6, 14, ",1
+Savings Placement: simulation,"1, 6, 7, 6, ","1, 6, 7, 6, 2, ",1
+Savings Placement: success,"1, 6, 7, 6, 2, ","1, 6, 7, 6, 2, 4, ",1
+Crypto Send: success,"1, 6, 7, 6, 2, 4, ","1, 6, 7, 6, 2, 4, 9, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 2, 4, 9, ","1, 6, 7, 6, 2, 4, 9, 6, ",1
+Savings Placement: simulation,"1, 6, 7, 6, 2, 4, 9, 6, ","1, 6, 7, 6, 2, 4, 9, 6, 2, ",1
+Savings Placement: success,"1, 6, 7, 6, 2, 4, 9, 6, 2, ","1, 6, 7, 6, 2, 4, 9, 6, 2, 4, ",1
+Savings Placement: simulation,"1, 6, 7, 6, 2, 4, 9, 6, 2, 4, ","1, 6, 7, 6, 2, 4, 9, 6, 2, 4, 2, ",1
+Crypto Buy: success,"1, 6, 7, 6, ","1, 6, 7, 6, 7, ",31
+Crypto Sell: simulation,"1, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 14, ",3
+Crypto Sell: success,"1, 6, 7, 6, 7, 14, ","1, 6, 7, 6, 7, 14, 15, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, 14, 15, ","1, 6, 7, 6, 7, 14, 15, 9, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, 14, ","1, 6, 7, 6, 7, 14, 9, ",2
+Crypto Sell: success,"1, 6, 7, 6, 7, 14, 9, ","1, 6, 7, 6, 7, 14, 9, 15, ",2
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 14, 9, 15, ","1, 6, 7, 6, 7, 14, 9, 15, 6, ",1
+Savings Placement: simulation,"1, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 2, ",1
+Savings Placement: success,"1, 6, 7, 6, 7, 2, ","1, 6, 7, 6, 7, 2, 4, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 2, 4, ","1, 6, 7, 6, 7, 2, 4, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 2, 4, 6, ","1, 6, 7, 6, 7, 2, 4, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 6, ",22
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 7, ",15
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 6, 7, 6, ",11
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 7, 6, 7, ",10
+Crypto Sell: simulation,"1, 6, 7, 6, 7, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 14, ",2
+Crypto Sell: failed,"1, 6, 7, 6, 7, 6, 7, 6, 7, 14, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 14, 16, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, 6, 7, 6, 7, 14, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 14, 9, ",1
+Savings Placement: simulation,"1, 6, 7, 6, 7, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 2, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, 6, 7, 2, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 2, 6, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 6, ",6
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 7, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, ",5
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 7, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, 6, 8, ","1, 6, 7, 6, 7, 6, 7, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, 7, 6, 8, 6, ","1, 6, 7, 6, 7, 6, 7, 6, 8, 6, 8, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 6, 7, 9, ",4
+Crypto Send: failed,"1, 6, 7, 6, 7, 6, 7, 9, ","1, 6, 7, 6, 7, 6, 7, 9, 11, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, 9, 11, ","1, 6, 7, 6, 7, 6, 7, 9, 11, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 7, 9, 11, 6, ","1, 6, 7, 6, 7, 6, 7, 9, 11, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, 9, ","1, 6, 7, 6, 7, 6, 7, 9, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 7, 9, 6, ","1, 6, 7, 6, 7, 6, 7, 9, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 7, 9, 6, 7, ","1, 6, 7, 6, 7, 6, 7, 9, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 8, ",5
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 8, ","1, 6, 7, 6, 7, 6, 8, 6, ",5
+Crypto Sell: simulation,"1, 6, 7, 6, 7, 6, 8, 6, ","1, 6, 7, 6, 7, 6, 8, 6, 14, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, 6, 8, 6, 14, ","1, 6, 7, 6, 7, 6, 8, 6, 14, 9, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 8, 6, 14, 9, ","1, 6, 7, 6, 7, 6, 8, 6, 14, 9, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 8, 6, ","1, 6, 7, 6, 7, 6, 8, 6, 7, ",2
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 8, 6, 7, ","1, 6, 7, 6, 7, 6, 8, 6, 7, 6, ",2
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 8, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, 8, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 8, 6, 7, 6, 8, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, 8, 6, ","1, 6, 7, 6, 7, 6, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 8, 6, 8, ","1, 6, 7, 6, 7, 6, 8, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, 8, 6, 8, 6, ","1, 6, 7, 6, 7, 6, 8, 6, 8, 6, 8, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, 6, ","1, 6, 7, 6, 7, 6, 9, ",2
+Crypto Send: failed,"1, 6, 7, 6, 7, 6, 9, ","1, 6, 7, 6, 7, 6, 9, 11, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 9, 11, ","1, 6, 7, 6, 7, 6, 9, 11, 6, ",1
+Crypto Send: failed,"1, 6, 7, 6, 7, 6, 9, 11, 6, ","1, 6, 7, 6, 7, 6, 9, 11, 6, 11, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 9, 11, 6, 11, ","1, 6, 7, 6, 7, 6, 9, 11, 6, 11, 6, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 9, ","1, 6, 7, 6, 7, 6, 9, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 6, 9, 6, ","1, 6, 7, 6, 7, 6, 9, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 6, 9, 6, 7, ","1, 6, 7, 6, 7, 6, 9, 6, 7, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 6, 9, 6, 7, 8, ","1, 6, 7, 6, 7, 6, 9, 6, 7, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 8, ",2
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 8, ","1, 6, 7, 6, 7, 8, 6, ",2
+Crypto Buy: success,"1, 6, 7, 6, 7, 8, 6, ","1, 6, 7, 6, 7, 8, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 8, 6, 7, ","1, 6, 7, 6, 7, 8, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 8, 6, 7, 6, ","1, 6, 7, 6, 7, 8, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 8, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 8, 6, 7, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 7, 8, 6, ","1, 6, 7, 6, 7, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 8, 6, 8, ","1, 6, 7, 6, 7, 8, 6, 8, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 7, 8, 6, 8, 6, ","1, 6, 7, 6, 7, 8, 6, 8, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 7, 8, 6, 8, 6, 7, ","1, 6, 7, 6, 7, 8, 6, 8, 6, 7, 6, ",1
+Crypto Send: success,"1, 6, 7, 6, 7, ","1, 6, 7, 6, 7, 9, ",1
+Crypto Buy: failed,"1, 6, 7, 6, ","1, 6, 7, 6, 8, ",14
+Crypto Buy: simulation,"1, 6, 7, 6, 8, ","1, 6, 7, 6, 8, 6, ",13
+Crypto Buy: success,"1, 6, 7, 6, 8, 6, ","1, 6, 7, 6, 8, 6, 7, ",4
+Crypto Send: failed,"1, 6, 7, 6, 8, 6, 7, ","1, 6, 7, 6, 8, 6, 7, 11, ",1
+Crypto Send: success,"1, 6, 7, 6, 8, 6, 7, 11, ","1, 6, 7, 6, 8, 6, 7, 11, 9, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 7, 11, 9, ","1, 6, 7, 6, 8, 6, 7, 11, 9, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 8, 6, 7, 11, 9, 6, ","1, 6, 7, 6, 8, 6, 7, 11, 9, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 7, ","1, 6, 7, 6, 8, 6, 7, 6, ",3
+Savings Placement: simulation,"1, 6, 7, 6, 8, 6, 7, 6, ","1, 6, 7, 6, 8, 6, 7, 6, 2, ",1
+Savings Placement: success,"1, 6, 7, 6, 8, 6, 7, 6, 2, ","1, 6, 7, 6, 8, 6, 7, 6, 2, 4, ",1
+Savings Placement: simulation,"1, 6, 7, 6, 8, 6, 7, 6, 2, 4, ","1, 6, 7, 6, 8, 6, 7, 6, 2, 4, 2, ",1
+Crypto Buy: success,"1, 6, 7, 6, 8, 6, 7, 6, ","1, 6, 7, 6, 8, 6, 7, 6, 7, ",2
+Crypto Sell: simulation,"1, 6, 7, 6, 8, 6, 7, 6, 7, ","1, 6, 7, 6, 8, 6, 7, 6, 7, 14, ",2
+Crypto Sell: success,"1, 6, 7, 6, 8, 6, 7, 6, 7, 14, ","1, 6, 7, 6, 8, 6, 7, 6, 7, 14, 15, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 7, 6, 7, 14, ","1, 6, 7, 6, 8, 6, 7, 6, 7, 14, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 8, 6, ","1, 6, 7, 6, 8, 6, 8, ",9
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 8, ","1, 6, 7, 6, 8, 6, 8, 6, ",8
+Crypto Buy: success,"1, 6, 7, 6, 8, 6, 8, 6, ","1, 6, 7, 6, 8, 6, 8, 6, 7, ",4
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 8, 6, 7, ","1, 6, 7, 6, 8, 6, 8, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 6, 8, 6, 8, 6, 7, 6, ","1, 6, 7, 6, 8, 6, 8, 6, 7, 6, 7, ",1
+Crypto Send: success,"1, 6, 7, 6, 8, 6, 8, 6, 7, ","1, 6, 7, 6, 8, 6, 8, 6, 7, 9, ",2
+Crypto Send: failed,"1, 6, 7, 6, 8, 6, 8, 6, 7, 9, ","1, 6, 7, 6, 8, 6, 8, 6, 7, 9, 11, ",1
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 8, 6, 7, 9, ","1, 6, 7, 6, 8, 6, 8, 6, 7, 9, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 8, 6, 8, 6, ","1, 6, 7, 6, 8, 6, 8, 6, 8, ",4
+Crypto Buy: simulation,"1, 6, 7, 6, 8, 6, 8, 6, 8, ","1, 6, 7, 6, 8, 6, 8, 6, 8, 6, ",4
+Crypto Buy: success,"1, 6, 7, 6, 8, 6, 8, 6, 8, 6, ","1, 6, 7, 6, 8, 6, 8, 6, 8, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 7, 6, 8, 6, 8, 6, 8, 6, ","1, 6, 7, 6, 8, 6, 8, 6, 8, 6, 8, ",3
+Crypto Send: success,"1, 6, 7, 6, ","1, 6, 7, 6, 9, ",2
+Crypto Sell: simulation,"1, 6, 7, 6, 9, ","1, 6, 7, 6, 9, 14, ",1
+Crypto Send: success,"1, 6, 7, 6, 9, 14, ","1, 6, 7, 6, 9, 14, 9, ",1
+Crypto Sell: success,"1, 6, 7, 6, 9, 14, 9, ","1, 6, 7, 6, 9, 14, 9, 15, ",1
+Crypto Send: success,"1, 6, 7, 6, 9, 14, 9, 15, ","1, 6, 7, 6, 9, 14, 9, 15, 9, ",1
+Crypto Send: failed,"1, 6, 7, 6, 9, 14, 9, 15, 9, ","1, 6, 7, 6, 9, 14, 9, 15, 9, 11, ",1
+Crypto Buy: failed,"1, 6, 7, ","1, 6, 7, 8, ",3
+Crypto Buy: simulation,"1, 6, 7, 8, ","1, 6, 7, 8, 6, ",3
+Crypto Buy: success,"1, 6, 7, 8, 6, ","1, 6, 7, 8, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 7, 8, 6, 7, ","1, 6, 7, 8, 6, 7, 8, ",1
+Crypto Send: success,"1, 6, 7, 8, 6, 7, 8, ","1, 6, 7, 8, 6, 7, 8, 9, ",1
+Crypto Send: failed,"1, 6, 7, 8, 6, 7, 8, 9, ","1, 6, 7, 8, 6, 7, 8, 9, 11, ",1
+Crypto Send: success,"1, 6, 7, 8, 6, 7, 8, 9, 11, ","1, 6, 7, 8, 6, 7, 8, 9, 11, 9, ",1
+Crypto Send: failed,"1, 6, 7, 8, 6, 7, 8, 9, 11, 9, ","1, 6, 7, 8, 6, 7, 8, 9, 11, 9, 11, ",1
+Crypto Buy: failed,"1, 6, 7, 8, 6, ","1, 6, 7, 8, 6, 8, ",2
+Crypto Buy: simulation,"1, 6, 7, 8, 6, 8, ","1, 6, 7, 8, 6, 8, 6, ",2
+Crypto Buy: success,"1, 6, 7, 8, 6, 8, 6, ","1, 6, 7, 8, 6, 8, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 7, 8, 6, 8, 6, 7, ","1, 6, 7, 8, 6, 8, 6, 7, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 8, 6, 8, 6, 7, 8, ","1, 6, 7, 8, 6, 8, 6, 7, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 8, 6, 8, 6, 7, 8, 6, ","1, 6, 7, 8, 6, 8, 6, 7, 8, 6, 8, ",1
+Crypto Buy: failed,"1, 6, 7, 8, 6, 8, 6, ","1, 6, 7, 8, 6, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 8, 6, 8, 6, 8, ","1, 6, 7, 8, 6, 8, 6, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 8, 6, 8, 6, 8, 6, ","1, 6, 7, 8, 6, 8, 6, 8, 6, 8, ",1
+Crypto Send: success,"1, 6, 7, ","1, 6, 7, 9, ",14
+Crypto Send: failed,"1, 6, 7, 9, ","1, 6, 7, 9, 11, ",2
+Crypto Send: success,"1, 6, 7, 9, 11, ","1, 6, 7, 9, 11, 9, ",2
+Crypto Buy: simulation,"1, 6, 7, 9, 11, 9, ","1, 6, 7, 9, 11, 9, 6, ",2
+Crypto Buy: success,"1, 6, 7, 9, 11, 9, 6, ","1, 6, 7, 9, 11, 9, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 11, 9, 6, 7, ","1, 6, 7, 9, 11, 9, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 11, 9, 6, 7, 6, ","1, 6, 7, 9, 11, 9, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 11, 9, 6, 7, 6, 7, ","1, 6, 7, 9, 11, 9, 6, 7, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 6, 7, 9, 11, 9, 6, ","1, 6, 7, 9, 11, 9, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 11, 9, 6, 8, ","1, 6, 7, 9, 11, 9, 6, 8, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 11, 9, 6, 8, 6, ","1, 6, 7, 9, 11, 9, 6, 8, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 11, 9, 6, 8, 6, 7, ","1, 6, 7, 9, 11, 9, 6, 8, 6, 7, 6, ",1
+Crypto Sell: simulation,"1, 6, 7, 9, ","1, 6, 7, 9, 14, ",2
+Crypto Send: success,"1, 6, 7, 9, 14, ","1, 6, 7, 9, 14, 9, ",2
+Crypto Sell: success,"1, 6, 7, 9, 14, 9, ","1, 6, 7, 9, 14, 9, 15, ",2
+Crypto Sell: simulation,"1, 6, 7, 9, 14, 9, 15, ","1, 6, 7, 9, 14, 9, 15, 14, ",1
+Crypto Send: failed,"1, 6, 7, 9, 14, 9, 15, 14, ","1, 6, 7, 9, 14, 9, 15, 14, 11, ",1
+Crypto Sell: failed,"1, 6, 7, 9, 14, 9, 15, 14, 11, ","1, 6, 7, 9, 14, 9, 15, 14, 11, 16, ",1
+Crypto Sell: simulation,"1, 6, 7, 9, 14, 9, 15, 14, 11, 16, ","1, 6, 7, 9, 14, 9, 15, 14, 11, 16, 14, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 14, 9, 15, ","1, 6, 7, 9, 14, 9, 15, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 14, 9, 15, 6, ","1, 6, 7, 9, 14, 9, 15, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 14, 9, 15, 6, 7, ","1, 6, 7, 9, 14, 9, 15, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 14, 9, 15, 6, 7, 6, ","1, 6, 7, 9, 14, 9, 15, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, ","1, 6, 7, 9, 6, ",7
+Crypto Buy: success,"1, 6, 7, 9, 6, ","1, 6, 7, 9, 6, 7, ",6
+Crypto Sell: simulation,"1, 6, 7, 9, 6, 7, ","1, 6, 7, 9, 6, 7, 14, ",1
+Crypto Send: success,"1, 6, 7, 9, 6, 7, 14, ","1, 6, 7, 9, 6, 7, 14, 9, ",1
+Crypto Sell: success,"1, 6, 7, 9, 6, 7, 14, 9, ","1, 6, 7, 9, 6, 7, 14, 9, 15, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, ","1, 6, 7, 9, 6, 7, 6, ",3
+Crypto Buy: success,"1, 6, 7, 9, 6, 7, 6, ","1, 6, 7, 9, 6, 7, 6, 7, ",3
+Crypto Sell: simulation,"1, 6, 7, 9, 6, 7, 6, 7, ","1, 6, 7, 9, 6, 7, 6, 7, 14, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, 6, 7, 14, ","1, 6, 7, 9, 6, 7, 6, 7, 14, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 6, 7, 6, 7, 14, 6, ","1, 6, 7, 9, 6, 7, 6, 7, 14, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, 6, 7, ","1, 6, 7, 9, 6, 7, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 6, 7, 6, 7, 6, ","1, 6, 7, 9, 6, 7, 6, 7, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, 6, 7, 6, 7, ","1, 6, 7, 9, 6, 7, 6, 7, 6, 7, 6, ",1
+Crypto Send: success,"1, 6, 7, 9, 6, 7, 6, 7, ","1, 6, 7, 9, 6, 7, 6, 7, 9, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, 6, 7, 9, ","1, 6, 7, 9, 6, 7, 6, 7, 9, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 6, 7, 6, 7, 9, 6, ","1, 6, 7, 9, 6, 7, 6, 7, 9, 6, 7, ",1
+Crypto Send: success,"1, 6, 7, 9, 6, 7, ","1, 6, 7, 9, 6, 7, 9, ",2
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, 9, ","1, 6, 7, 9, 6, 7, 9, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 6, 7, 9, 6, ","1, 6, 7, 9, 6, 7, 9, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 7, 9, 6, 7, 9, 6, 7, ","1, 6, 7, 9, 6, 7, 9, 6, 7, 6, ",1
+Crypto Buy: success,"1, 6, 7, 9, 6, 7, 9, 6, 7, 6, ","1, 6, 7, 9, 6, 7, 9, 6, 7, 6, 7, ",1
+Crypto Buy: failed,"1, 6, ","1, 6, 8, ",20
+Savings Placement: simulation,"1, 6, 8, ","1, 6, 8, 2, ",1
+Savings Placement: failed,"1, 6, 8, 2, ","1, 6, 8, 2, 3, ",1
+Crypto Buy: simulation,"1, 6, 8, ","1, 6, 8, 6, ",15
+Crypto Buy: success,"1, 6, 8, 6, ","1, 6, 8, 6, 7, ",5
+Crypto Send: failed,"1, 6, 8, 6, 7, ","1, 6, 8, 6, 7, 11, ",1
+Crypto Send: success,"1, 6, 8, 6, 7, 11, ","1, 6, 8, 6, 7, 11, 9, ",1
+Crypto Buy: simulation,"1, 6, 8, 6, 7, ","1, 6, 8, 6, 7, 6, ",2
+Crypto Buy: failed,"1, 6, 8, 6, 7, 6, ","1, 6, 8, 6, 7, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 8, 6, 7, 6, 8, ","1, 6, 8, 6, 7, 6, 8, 6, ",1
+Crypto Buy: success,"1, 6, 8, 6, 7, 6, 8, 6, ","1, 6, 8, 6, 7, 6, 8, 6, 7, ",1
+Crypto Send: success,"1, 6, 8, 6, 7, ","1, 6, 8, 6, 7, 9, ",1
+Crypto Sell: simulation,"1, 6, 8, 6, 7, 9, ","1, 6, 8, 6, 7, 9, 14, ",1
+Crypto Send: success,"1, 6, 8, 6, 7, 9, 14, ","1, 6, 8, 6, 7, 9, 14, 9, ",1
+Crypto Sell: success,"1, 6, 8, 6, 7, 9, 14, 9, ","1, 6, 8, 6, 7, 9, 14, 9, 15, ",1
+Crypto Send: failed,"1, 6, 8, 6, 7, 9, 14, 9, 15, ","1, 6, 8, 6, 7, 9, 14, 9, 15, 11, ",1
+Crypto Send: success,"1, 6, 8, 6, 7, 9, 14, 9, 15, 11, ","1, 6, 8, 6, 7, 9, 14, 9, 15, 11, 9, ",1
+Crypto Buy: failed,"1, 6, 8, 6, ","1, 6, 8, 6, 8, ",10
+Crypto Buy: simulation,"1, 6, 8, 6, 8, ","1, 6, 8, 6, 8, 6, ",8
+Crypto Buy: success,"1, 6, 8, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 7, ",2
+Crypto Buy: simulation,"1, 6, 8, 6, 8, 6, 7, ","1, 6, 8, 6, 8, 6, 7, 6, ",2
+Crypto Buy: failed,"1, 6, 8, 6, 8, 6, 7, 6, ","1, 6, 8, 6, 8, 6, 7, 6, 8, ",2
+Crypto Buy: simulation,"1, 6, 8, 6, 8, 6, 7, 6, 8, ","1, 6, 8, 6, 8, 6, 7, 6, 8, 6, ",2
+Crypto Buy: failed,"1, 6, 8, 6, 8, 6, 7, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 7, 6, 8, 6, 8, ",2
+Crypto Buy: failed,"1, 6, 8, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 8, ",6
+Crypto Buy: simulation,"1, 6, 8, 6, 8, 6, 8, ","1, 6, 8, 6, 8, 6, 8, 6, ",5
+Crypto Buy: success,"1, 6, 8, 6, 8, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 8, 6, 7, ",1
+Crypto Buy: simulation,"1, 6, 8, 6, 8, 6, 8, 6, 7, ","1, 6, 8, 6, 8, 6, 8, 6, 7, 6, ",1
+Crypto Buy: failed,"1, 6, 8, 6, 8, 6, 8, 6, 7, 6, ","1, 6, 8, 6, 8, 6, 8, 6, 7, 6, 8, ",1
+Crypto Buy: failed,"1, 6, 8, 6, 8, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 8, 6, 8, ",4
+Crypto Buy: simulation,"1, 6, 8, 6, 8, 6, 8, 6, 8, ","1, 6, 8, 6, 8, 6, 8, 6, 8, 6, ",4
+Crypto Buy: success,"1, 6, 8, 6, 8, 6, 8, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 8, 6, 8, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 8, 6, 8, 6, 8, 6, 8, 6, ","1, 6, 8, 6, 8, 6, 8, 6, 8, 6, 8, ",3
+Crypto Send: success,"1, 6, ","1, 6, 9, ",1
+Crypto Buy: simulation,"1, 6, 9, ","1, 6, 9, 6, ",1
+Crypto Buy: success,"1, 6, 9, 6, ","1, 6, 9, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 9, 6, 7, ","1, 6, 9, 6, 7, 8, ",1
+Crypto Buy: simulation,"1, 6, 9, 6, 7, 8, ","1, 6, 9, 6, 7, 8, 6, ",1
+Crypto Buy: failed,"1, 6, 9, 6, 7, 8, 6, ","1, 6, 9, 6, 7, 8, 6, 8, ",1
+Crypto Buy: simulation,"1, 6, 9, 6, 7, 8, 6, 8, ","1, 6, 9, 6, 7, 8, 6, 8, 6, ",1
+Crypto Buy: success,"1, 6, 9, 6, 7, 8, 6, 8, 6, ","1, 6, 9, 6, 7, 8, 6, 8, 6, 7, ",1
+Crypto Buy: failed,"1, 6, 9, 6, 7, 8, 6, 8, 6, 7, ","1, 6, 9, 6, 7, 8, 6, 8, 6, 7, 8, ",1

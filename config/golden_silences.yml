@@ -1,0 +1,184 @@
+title: Silences d'or 2022
+id: GoldenSilences2022
+links:
+  salon: https://discord.com/channels/342731229315072000/1039992186252558487/1039992242233946132
+  tuto: https://discord.com/channels/342731229315072000/1040214053152366672/1046554662553264139
+polls:
+  - title: Top des sorties de 2022
+    id: goty
+    emoji: 👑
+    options: 10
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1045779443483943053
+      prod: 1039992755809697893
+  - title: Top joué en 2022
+    id: played
+    emoji: 🎮
+    options: 5
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166353339498607
+      prod: 1039993075440820374
+  - title: Déceptions
+    id: disappointments
+    emoji: 😓
+    options: 3
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166773042515968
+      prod: 1039997990741479484
+  - title: Bonnes surprises
+    id: surprises
+    emoji: 🤯
+    options: 3
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1039997860617388072
+  - title: Bande originale de 2022
+    id: music
+    emoji: 🎶
+    options: 5
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1039998552027439177
+  - title: Attentes pour 2023
+    id: expectations
+    emoji: 🤤
+    options: 3
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1039998199127081030
+  - title: Jeux de société sortis en 2022
+    id: boardgoty
+    emoji: 🎲
+    options: 5
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1039998789622181909
+  - title: Jeux de société joués 2022
+    id: boardplayed
+    emoji: ♟️
+    options: 5
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1039998919779815484
+  - title: Fils du salon deaf-test
+    id: deaf
+    emoji: 🧵
+    options: 3
+    vote_label: Fil
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1040000469797445682
+  - title: Salon ou fil du Discord SoJ dans son ensemble
+    id: discord
+    emoji: 💬
+    options: 5
+    vote_label: Salon / Fil
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1040000784538013767
+  - title: Jeux que j'aimerais voir chroniqués
+    id: hope
+    emoji: 🙏
+    options: 3
+    vote_label: Jeu
+    vote_rank: yes
+    placeholder: Titre
+    long_input: no
+    max_characters: 100
+    channel:
+      dev: 1045776002544058378
+      stage: 1046166945529077840
+      prod: 1040001236948234250
+  - title: Un message gentil ?
+    id: nice
+    emoji: 🥰
+    options: 1
+    vote_label: Mon message pour l'équipe et la communauté
+    vote_rank: no
+    placeholder: Message
+    long_input: yes
+    max_characters: 250
+    channel:
+      dev: 1045776062661001327
+      stage: 1045779514438983741
+      prod: 1046406403469877368
+welcome: "Bonjour ${user} !
+
+2022 touche à sa fin, et comme le veut la tradition, la communauté _Silence on Joue !_ est appelée à voter pour exprimer son avis sur la production vidéoludique (mais pas que) de l'année écoulée.
+
+
+C'est __anonyme__ : les autres ne pourront voir tes votes que si tu le décides.
+
+C'est __optionnel__ : tu n'es pas obligé·e de participer. Et tu peux choisir de ne voter que pour les catégories qui t'intéressent, ton vote sera comptabilisé quoi qu'il en soit.
+
+
+Chaque bouton ci-dessous correspond à une catégorie. Pour voter, clique sur le bouton, et saisis tes réponses.
+Pour en savoir plus sur les catégories, rends-toi sur le salon des Silences d'Or en cliquant sur le lien ci-dessous.
+
+Le vote n'est __pas définitif__, tu peux le modifier autant que tu le souhaites en cliquant à nouveau sur le bouton.
+
+
+Le vote sera clos le **20 décembre à minuit**.
+"
+thanks: "Merci pour ta réponse ! Nous t'invitons à en vérifier l'exactitude ci-dessous.
+
+Tu peux la modifier en cliquant à nouveau sur le bouton du vote correspondant.
+"

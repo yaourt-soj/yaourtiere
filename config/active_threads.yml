@@ -1,0 +1,17 @@
+channel:
+  prod: 941250672811212810
+  stage: 1064162849552867348
+  dev: 1289651879847923805
+max_message_length: 2000
+new:
+  hours: 72
+  emoji: new
+  description: fil créé dans les 3 derniers jours
+up:
+  hours: 24
+  emoji: up
+  description: fil réactivé dans les dernières 24 heures
+dying:
+  hours: 12
+  emoji: hourglass
+  description: fil risquant l'archivage dans les 12 heures

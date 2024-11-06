@@ -1,0 +1,29 @@
+reaction:
+  new:
+    - 🔴
+  clue:
+    - 🟠
+  good:
+    - 🟢
+  close:
+    - 🤏
+  bad:
+    - 👎
+    - 💩
+    - poucebasrouge
+  yes:
+    - correct
+    - correct_anim
+    - poucehautvert
+  no:
+    - ❌
+    - Faux
+    - Faux_anim
+thread:
+  - title: Deaf Test
+    id:
+      - dev: 935625593167441920
+        stage: 12345
+        prod: 12345
+    group: Deaf Test
+    sticky: deaf_test

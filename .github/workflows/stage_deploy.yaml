@@ -1,0 +1,35 @@
+name: Deploy stage branch
+
+on:
+  pull_request:
+    branches:
+      - stage
+    types:
+      - closed
+
+jobs:
+  deploy:
+    if: github.event.pull_request.merged == true
+    name: deploy-to-stage
+    runs-on: ubuntu-latest
+    steps:
+      - name: executing remote ssh commands
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_KEY }}
+          script:
+            eval "$(ssh-agent)"
+            
+            ssh-add ~/.ssh/yaourtiere-rsa
+            
+            cd ~/stage
+            
+            git fetch
+            
+            git reset --hard yaourtiere/stage
+            
+            source bin/activate
+            
+            pip install -r requirements.txt

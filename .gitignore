@@ -1,0 +1,14 @@
+/venv/
+/__pycache__/
+/bin/
+/include/
+/lib/
+/lib64/
+pyenv.cfg
+../../yaourtiere/.env
+/notebooks/
+/config/moderation/*
+/config/poll/*
+/config/search/*
+/config/sticky_message/*
+/config/test_collector/*
